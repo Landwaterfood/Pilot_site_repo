@@ -1,6 +1,10 @@
 
+* {
+    border: 1px solid red;
+  }
+  
 *{
-    font-family: roboto;
+    font-family: 
 
     
   }
@@ -10,14 +14,11 @@
 }
 
 .nav-links {
-    
-
+    color: black;
 }
   
-.container{
+.flex-container{
     display: flex;
-    width: 80%;
-    margin: 0 auto;
     justify-content: center;
 
 }
